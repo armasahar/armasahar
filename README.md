@@ -1,14 +1,15 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Welcome to Arma vs Code</h1>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
+  <span>Programming in :</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-</div>
+</div> -->
 
 ###
 <div align="center">
@@ -20,6 +21,7 @@
 ###
 
 <div align="center">
+  <h4>Find my work on: </h4>
   <a href="https://www.linkedin.com/in/armasahar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
