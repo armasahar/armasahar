@@ -43,15 +43,6 @@ Designed schemas and RESTful APIs for real-time transaction handling. Focus on s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armasahar&show_icons=true&theme=vivid&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armasahar&layout=compact&theme=vivid&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 - **Portfolio:** [www.armasahar.com](https://www.armasahar.com)
