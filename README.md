@@ -2,7 +2,7 @@
 
 **Software Engineer | Former Startup Founder | Data Science Enthusiast**
 
-I’m a product-minded engineer who doesn't just write code, I build solutions. My background sits at the intersection of **Full-Stack Engineering** and **Data Science**, fueled by a Founder's Mindset that prioritizes impact, scalability, and user experience.
+I’m a product-minded engineer who doesn't just write code, I build solutions. My background sits at the intersection of **Full-Stack Engineering** and Business Growth and Development, fueled by a Founder's Mindset that prioritizes impact, scalability, and user experience.
 
 ---
 
@@ -10,7 +10,7 @@ I’m a product-minded engineer who doesn't just write code, I build solutions. 
 
 - 🔭 **Currently:** Mastering Full-Stack Web Engineering at [Code.in]([https://www.thehackingschool.com/](https://cs.code.in/)).
 - 🏗️ **Past Life:** Founder & CEO of **Unicorn** (Featured in *Times of India* & *YourStory*).
-- 🧬 **DNA:** B.Sc in Data Science. 
+- 🧬 **DNA:** B.Sc in Data Science. R&D runs past my blood vessels. 
 - ✍️ **Contributing:** Published an NPM package with 135+ downloads and contributed to Wikipedia’s cryptography pages.
 - 🎙️ **Content:** Documenting my journey and technical deep-dives on dev.to: **[arma vs code](https://dev.to/_armasahar_)**.
 
