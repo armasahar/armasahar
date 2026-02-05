@@ -1,18 +1,18 @@
-# Hi, I'm Arma Sahar 🚀
+# Arma vs Code 🚀
 
 **Software Engineer | Former Startup Founder | Data Science Enthusiast**
 
-I’m a product-minded engineer who doesn't just write code—I build solutions. My background sits at the intersection of **Data Science** and **Full-Stack Engineering**, fueled by a "Founder's Mindset" that prioritizes impact, scalability, and user experience.
+I’m a product-minded engineer who doesn't just write code, I build solutions. My background sits at the intersection of **Full-Stack Engineering** and **Data Science**, fueled by a Founder's Mindset that prioritizes impact, scalability, and user experience.
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Currently:** Mastering Full-Stack Web Engineering at [The Hacking School](https://www.thehackingschool.com/).
-- 🏗️ **Past Life:** Founder & CEO of **Unicorn** (Partnered with Rapido, featured in *Times of India* & *YourStory*).
-- 🧬 **DNA:** B.Sc in Data Science — I love bridging the gap between raw data and functional interfaces.
+- 🔭 **Currently:** Mastering Full-Stack Web Engineering at [Code.in]([https://www.thehackingschool.com/](https://cs.code.in/)).
+- 🏗️ **Past Life:** Founder & CEO of **Unicorn** (Featured in *Times of India* & *YourStory*).
+- 🧬 **DNA:** B.Sc in Data Science. 
 - ✍️ **Contributing:** Published an NPM package with 135+ downloads and contributed to Wikipedia’s cryptography pages.
-- 🎙️ **Content:** Documenting my journey and technical deep-dives on my YouTube channel: **[arma vs code](https://www.youtube.com/@armavscode)**.
+- 🎙️ **Content:** Documenting my journey and technical deep-dives on dev.to: **[arma vs code](https://dev.to/_armasahar_)**.
 
 ---
 
@@ -22,8 +22,8 @@ I’m a product-minded engineer who doesn't just write code—I build solutions.
 | :--- | :--- |
 | **Frontend** | React, Next.js (Learning), Tailwind CSS, Bootstrap |
 | **Backend** | Node.js, Express, Socket.io, RESTful APIs |
-| **Data & DB** | MongoDB, PostgreSQL, SQL, Pandas, NumPy, Tableau |
-| **DevOps** | Docker, Git/GitHub, Linux |
+| **Data & DB** | MongoDB, Pandas, NumPy, Tableau |
+| **DevOps** | Git/GitHub, Linux, AWS |
 
 ---
 
@@ -39,7 +39,7 @@ Architected a **Dockerized OTP verification service** for the signup process, en
 
 #### 🏦 [CS Bank](https://github.com/armasahar)
 *Full-Stack Banking System*  
-Designed ACID-compliant schemas and RESTful APIs for real-time transaction handling. Focus on security, schema optimization, and admin analytics.
+Designed schemas and RESTful APIs for real-time transaction handling. Focus on security, schema optimization, and admin analytics.
 
 ---
 
@@ -57,6 +57,6 @@ Designed ACID-compliant schemas and RESTful APIs for real-time transaction handl
 - **Portfolio:** [www.armasahar.com](https://www.armasahar.com)
 - **LinkedIn:** [in/armasahar](https://linkedin.com/in/armasahar/)
 - **Twitter/X:** [@armasahar](https://twitter.com/armasahar)
-- **Email:** [arma@yourdomain.com]
+- **Email:** [arma@code.in]
 
 *"I build products that bridge the gap between complex engineering and business growth."*
