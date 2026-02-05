@@ -1,42 +1,62 @@
-<h1 align="center">Welcome to Arma vs Code</h1>
+# Hi, I'm Arma Sahar 🚀
 
-###
+**Software Engineer | Former Startup Founder | Data Science Enthusiast**
 
-<!-- <div align="center">
-  <span>Programming in :</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-</div> -->
+I’m a product-minded engineer who doesn't just write code—I build solutions. My background sits at the intersection of **Data Science** and **Full-Stack Engineering**, fueled by a "Founder's Mindset" that prioritizes impact, scalability, and user experience.
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armasahar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=armasahar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-</div>
+---
 
+### 💫 About Me
 
-###
+- 🔭 **Currently:** Mastering Full-Stack Web Engineering at [The Hacking School](https://www.thehackingschool.com/).
+- 🏗️ **Past Life:** Founder & CEO of **Unicorn** (Partnered with Rapido, featured in *Times of India* & *YourStory*).
+- 🧬 **DNA:** B.Sc in Data Science — I love bridging the gap between raw data and functional interfaces.
+- ✍️ **Contributing:** Published an NPM package with 135+ downloads and contributed to Wikipedia’s cryptography pages.
+- 🎙️ **Content:** Documenting my journey and technical deep-dives on my YouTube channel: **[arma vs code](https://www.youtube.com/@armavscode)**.
 
-<div align="center">
-  <h4>Find my work on: </h4>
-  <a href="https://www.linkedin.com/in/armasahar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/sahar_arma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCIy0yE_GAW1B3xQY3dFUm0Q" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://dev.to/_armasahar_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="https://medium.com/@armasahar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
+---
 
-###
+### 🛠️ The Stack
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Frontend** | React, Next.js (Learning), Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express, Socket.io, RESTful APIs |
+| **Data & DB** | MongoDB, PostgreSQL, SQL, Pandas, NumPy, Tableau |
+| **DevOps** | Docker, Git/GitHub, Linux |
+
+---
+
+### 🚀 Highlighted Impact
+
+#### 📦 [Cipher-utils](https://www.npmjs.com/package/cipher-utils)
+*Author & Maintainer*  
+A JavaScript utility library for cryptographic functions. Used by **135+ developers** to simplify data encryption and decryption.
+
+#### 🏛️ [Indic AI Corpus Server](https://github.com/armasahar)
+*Open Source Contributor (IIIT-H DevSprints)*  
+Architected a **Dockerized OTP verification service** for the signup process, enhancing infrastructure security for Indic AI's corpus management.
+
+#### 🏦 [CS Bank](https://github.com/armasahar)
+*Full-Stack Banking System*  
+Designed ACID-compliant schemas and RESTful APIs for real-time transaction handling. Focus on security, schema optimization, and admin analytics.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armasahar&show_icons=true&theme=vivid&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armasahar&layout=compact&theme=vivid&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- **Portfolio:** [www.armasahar.com](https://www.armasahar.com)
+- **LinkedIn:** [in/armasahar](https://linkedin.com/in/armasahar/)
+- **Twitter/X:** [@armasahar](https://twitter.com/armasahar)
+- **Email:** [arma@yourdomain.com]
+
+*"I build products that bridge the gap between complex engineering and business growth."*
